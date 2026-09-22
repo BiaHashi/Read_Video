@@ -26,7 +26,7 @@ Leitura de vídeo por meio da biblioteca OpenCV e aprendendo sobre medidas usada
 git clone https://github.com/BiaHashi/Read_Video
 ```
 
-2. Abra os arquivos ".py" e execute-o no VS Code.
+2. Abra o arquivo ".py" e execute-o no VS Code.
 
 ## ✅ Licença
 - **Permissão de Uso:** O código pode ser usado somente para fins educacionais.
